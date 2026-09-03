@@ -25,6 +25,10 @@
       {
         "type": "github",
         "URL": "https://github.com/jgrabalosa"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://x.com/JoaquimGrabalo1"
       }
     ]
   },
@@ -230,6 +234,10 @@
         {
           "URL": "https://github.com/jgrabalosa",
           "type": "github"
+        },
+        {
+          "URL": "https://x.com/JoaquimGrabalo1",
+          "type": "twitter"
         }
       ]
     },
