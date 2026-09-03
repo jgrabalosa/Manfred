@@ -1,0 +1,247 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Joaquim",
+      "surnames": "Grabalosa",
+      "title": "Desarrollador de aplicaciones | Java · SQL · JavaScript | Aprendiz continuo",
+      "description": "Soy desarrollador de aplicaciones y disfruto construyendo productos digitales desde la idea hasta su lanzamiento. Me interesa especialmente diseñar experiencias, resolver problemas y crear tecnología que respete el tiempo y la atención de las personas. Actualmente estoy desarrollando Norday, una aplicación de hábitos centrada en el progreso sostenible y una experiencia sin publicidad intrusiva. En este perfil comparto lo que voy aprendiendo sobre desarrollo de producto, programación, experiencia de usuario y la construcción de proyectos desde cero. Llevo casi 10 años trabajando en entornos empresariales: primero como administrativo contable y, posteriormente, como técnico de soporte, formador y colaborador en el desarrollo de producto. Esa experiencia me ha dado una visión muy práctica de cómo funcionan las empresas y de la importancia de crear herramientas que aporten valor real. Fuera del código, soy un lector apasionado. Durante un tiempo desarrollé La Biblioteca de Quim, un proyecto personal dedicado a los libros y al aprendizaje. Aunque actualmente está en pausa, refleja una parte importante de quién soy: me gusta aprender, comprender las cosas en profundidad y compartir ese proceso con los demás.",
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/labibliotecadequim"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Cegid PHC"
+        },
+        "roles": [
+          {
+            "name": "Support Technician",
+            "startDate": "2022-05-01",
+            "finishDate": "2026-06-01",
+            "challenges": [
+              {
+                "description": "🔧 Soporte técnico avanzado sobre ERP PHC CS y PHC GO (facturación, stock, contabilidad y otros módulos), tanto en entornos cloud como on-premise.   🗄️ Resolución de incidencias complejas con acceso directo a bases de datos SQL para diagnóstico y corrección de datos; escalado a analistas en casos de desarrollo.   🇪🇸 Colaboración con el equipo de producto en la adaptación del software al marco fiscal y contable español: modelos tributarios, operaciones intracomunitarias y normativa Verifactu.   🎓 Formación a clientes finales sobre uso y funcionalidades del ERP.   🤝 Formación técnica a partners (consultores e informáticos) sobre arquitectura, configuración avanzada y funcionamiento interno del software.   📊 Demostraciones comerciales del producto a clientes potenciales, apoyando al equipo de ventas en el proceso de captación."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GRUVIPA"
+        },
+        "roles": [
+          {
+            "name": "Contable",
+            "startDate": "2017-03-01",
+            "finishDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "🧾 Registro contable diario y confección de estados financieros para declaraciones mensuales, trimestrales y anuales.   🏛️ Presentación de impuestos en SII y gestión de operaciones intracomunitarias.   💰 Gestión de cobros y pagos de clientes y proveedores, conciliaciones bancarias y control de caja.   📊 Análisis de costes y beneficios de ventas.   🗂️ Registro y actualización de base de datos de clientes, confirmación de pedidos y verificación de albaranes.   ⚠️ Resolución de incidencias y reclamaciones de clientes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GESAD"
+        },
+        "roles": [
+          {
+            "name": "Administrativo",
+            "startDate": "2016-03-01",
+            "finishDate": "2017-01-01",
+            "challenges": [
+              {
+                "description": "🧾 Gestión administrativa y contable en empresa del sector servicios sociales.  📂 Soporte en tareas de facturación, registro de operaciones y atención a clientes."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Dart",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Access",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Ciclo Formativo de Grado Superior",
+        "startDate": "2026-09-03",
+        "institution": {
+          "name": "Escoles Freta"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)",
+        "startDate": "2025-09-01",
+        "institution": {
+          "name": "UNIR-Universidad Internacional de La Rioja"
+        },
+        "finishDate": "2027-07-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Contabilidad Avanzada",
+        "startDate": "2020-09-01",
+        "institution": {
+          "name": "ADAMS"
+        },
+        "finishDate": "2020-11-01"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/labibliotecadequim",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Customer Service & Support",
+        "Finance Operations",
+        "Mobile Developer"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Bash",
+        "type": "technology"
+      },
+      {
+        "name": "Dart",
+        "type": "technology"
+      },
+      {
+        "name": "Flutter",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
+        "type": "technology"
+      }
+    ]
+  }
+}
