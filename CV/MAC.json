@@ -180,12 +180,13 @@
     "studies": [
       {
         "studyType": "officialDegree",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Ciclo Formativo de Grado Superior",
-        "startDate": "2026-09-03",
+        "startDate": "2016-09-01",
         "institution": {
           "name": "Escoles Freta"
-        }
+        },
+        "finishDate": "2018-08-01"
       },
       {
         "studyType": "officialDegree",
