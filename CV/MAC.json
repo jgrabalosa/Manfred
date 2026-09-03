@@ -190,13 +190,12 @@
       },
       {
         "studyType": "officialDegree",
-        "degreeAchieved": true,
+        "degreeAchieved": false,
         "name": "Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)",
         "startDate": "2025-09-01",
         "institution": {
           "name": "UNIR-Universidad Internacional de La Rioja"
-        },
-        "finishDate": "2027-07-01"
+        }
       },
       {
         "studyType": "officialDegree",
