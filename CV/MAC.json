@@ -201,6 +201,12 @@
           "name": "Aprendizaje Continuo",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Visión crítica",
+          "type": "practice"
+        }
       }
     ]
   },
