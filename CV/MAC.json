@@ -204,6 +204,12 @@
       },
       {
         "skill": {
+          "name": "Comunicación verbal",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Visión crítica",
           "type": "practice"
         }
