@@ -29,6 +29,11 @@
       {
         "type": "twitter",
         "URL": "https://x.com/JoaquimGrabalo1"
+      },
+      {
+        "type": "other",
+        "URL": "https://api.norday.app/",
+        "description": "Norday-Habits"
       }
     ]
   },
