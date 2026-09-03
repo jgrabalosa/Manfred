@@ -21,6 +21,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/labibliotecadequim"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jgrabalosa"
       }
     ]
   },
@@ -222,6 +226,10 @@
         {
           "URL": "https://www.linkedin.com/in/labibliotecadequim",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/jgrabalosa",
+          "type": "github"
         }
       ]
     },
