@@ -130,7 +130,7 @@
       },
       {
         "skill": {
-          "name": "Dart",
+          "name": "Claude Code",
           "type": "technology"
         }
       },
@@ -155,12 +155,6 @@
       {
         "skill": {
           "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Access",
           "type": "technology"
         }
       },
@@ -268,7 +262,7 @@
         "type": "technology"
       },
       {
-        "name": "Dart",
+        "name": "Claude Code",
         "type": "technology"
       },
       {
